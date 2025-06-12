@@ -11,8 +11,8 @@ if Dia_01<0 or Dia_02 <0 or Dia_03 <0:
     print ("erro numeros negativos")
 
 else:
-    soma = intregaX + integraY + 
-    
+    soma = Dia_01 +  + 
+
     
     
      
