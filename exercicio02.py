@@ -11,7 +11,9 @@ if Dia_01<0 or Dia_02 <0 or Dia_03 <0:
     print ("erro numeros negativos")
 
 else:
-    soma = Dia_01 +  + 
+    soma = Dia_01 + Dia_02 + Dia_03
+    
+
 
     
     
