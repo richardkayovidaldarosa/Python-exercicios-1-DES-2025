@@ -6,4 +6,8 @@
 
 Distância = int (input("Digite a Distância"))
 
-if Distância = 50:
+if Distância = 50;
+
+
+
+
